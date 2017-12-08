@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:p="http://primefaces.org/ui">
+     <h:head>
+      <title>Drop down navigation bars and menu</title>
+        <style>
+            body{
+                margin: 0;
+                background: #f2f2f2f;
+            }
+            .nav {
+                width: 100%;
+                background: #000033;
+                height: 80px;
+            }
+            
+            ul{
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                position: absolute;
+            }
+            
+            ul li {
+                float: left;
+                margin-top: 20px;
+            }
+            
+            ul li a {
+                width: 150px;
+                color: white;
+                display: block;
+                text-decoration: none;
+                font-size: 20px;
+                text-align: center;
+                padding: 10px;
+                border-radius: 10px;
+                font-family: Century Gothic;
+                font-weight: bold;
+            }
+            a:hover {
+                background: #669900;
+            }
+            
+            ul li ul {
+                background: #000033;
+            }
+            
+            ul li ul li {
+                float: none;
+            }
+            
+            ul li ul {
+                display: none;
+            }
+            
+            ul li:hover ul {
+                display: block;
+            } 
+            
+            .table {
+                width: 1100px;
+                height: 1000px;
+                margin-top: 20px;
+                margin-left: 70px;
+            }
+            
+        </style>		
+      <h:outputStylesheet library = "css" name = "styles.css"  /> 	
+   </h:head>
+
+    <h:body>
+        <div class="nav">
+            <h:form>
+            <ul>
+                <li><h:commandLink id="Link1" value="Home" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link2" value="News" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link3" value="Blog" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link4" value="FeedBack" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link5" value="Links" action="#{ownerController.prepareList}" />
+                    <ul>
+                <li><h:commandLink id="Link6" value="Link1" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link7" value="Link2" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link8" value="Link3" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link9" value="Link4" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link10" value="Link5" action="#{ownerController.prepareList}" /></li>
+                    </ul>
+                
+                </li>
+                <li><h:commandLink id="Link11" value="About Us" action="#{ownerController.prepareList}" /></li>
+                <li><h:commandLink id="Link12" value="Contact" action="#{ownerController.prepareList}" /></li>
+            </ul>
+            </h:form>
+        </div>
+<h:form>
+    <p:dataTable styleClass="table" id="dataTable" value="#{debitController.items}" var="item" paginator="true" rows="10"
+                 paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink}
+     {RowsPerPageDropdown}" rowsPerPageTemplate="5,10,15">
+        <f:facet name="header">
+            DEBIT TRANSACTIONS
+        </f:facet>
+        <p:column>
+            <f:facet name="header">
+                <h:outputText value="DATE:"/>
+            </f:facet>
+            <h:outputText value="#{item.date}"/>
+        </p:column>
+
+        <p:column>
+            <f:facet name="header">
+                <h:outputText value="DESCRIPTION:"/>
+            </f:facet>
+            <h:outputText value="#{item.description}"/>
+        </p:column>
+
+        <p:column>
+            <f:facet name="header">
+                <h:outputText value="AMOUNT:"/>
+            </f:facet>
+            <h:outputText value="#{item.amount}"/>
+        </p:column>
+        
+         <p:column>
+            <f:facet name="header">
+                <h:outputText value="OWNER ID:"/>
+            </f:facet>
+            <h:outputText value="#{item.owner.id}"/>
+        </p:column>
+
+    </p:dataTable>
+
+</h:form>
+</h:body>
+</html>
+
+

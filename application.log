@@ -1,0 +1,1530 @@
+2017-09-19 01:27:20 DEBUG HelloLoggingExample:27 - This is debug : mkyong
+2017-09-19 01:27:20 INFO  HelloLoggingExample:31 - This is info : mkyong
+2017-09-19 01:27:20 WARN  HelloLoggingExample:34 - This is warn : mkyong
+2017-09-19 01:27:20 ERROR HelloLoggingExample:35 - This is error : mkyong
+2017-09-19 01:27:20 FATAL HelloLoggingExample:36 - This is fatal : mkyong
+2017-10-04 11:30:51 DEBUG HelloLoggingExample:30 - This is debug : naxoduor
+2017-10-04 11:30:51 INFO  HelloLoggingExample:34 - This is info : naxoduor
+2017-10-04 11:30:51 WARN  HelloLoggingExample:37 - This is warn: naxoduor
+2017-10-04 11:30:51 ERROR HelloLoggingExample:38 - This is error : naxoduor
+2017-10-04 11:30:51 FATAL HelloLoggingExample:39 - This is fatal : naxoduor
+2017-10-04 11:36:39 DEBUG HelloLoggingExample:31 - This is debug : naxoduor
+2017-10-04 11:36:39 INFO  HelloLoggingExample:35 - This is info : naxoduor
+2017-10-04 11:36:39 WARN  HelloLoggingExample:38 - This is warn: naxoduor
+2017-10-04 11:36:39 ERROR HelloLoggingExample:39 - This is error : naxoduor
+2017-10-04 11:36:39 FATAL HelloLoggingExample:40 - This is fatal : naxoduor
+2017-10-04 11:36:39 DEBUG ExtraLogging:20 - check if is debug : ronnyodero
+2017-10-04 11:36:39 INFO  ExtraLogging:24 - check if is info : ronnyodero
+2017-10-04 11:36:39 WARN  ExtraLogging:27 - check if is warn: ronnyodero
+2017-10-04 11:36:39 ERROR ExtraLogging:28 - check if is error : ronnyodero
+2017-10-04 11:36:39 FATAL ExtraLogging:29 - check if is fatal : ronnyodero
+2017-10-04 11:40:11 DEBUG HelloLoggingExample:31 - This is debug : naxoduor
+2017-10-04 11:40:11 INFO  HelloLoggingExample:35 - This is info : naxoduor
+2017-10-04 11:40:11 WARN  HelloLoggingExample:38 - This is warn: naxoduor
+2017-10-04 11:40:11 ERROR HelloLoggingExample:39 - This is error : naxoduor
+2017-10-04 11:40:11 FATAL HelloLoggingExample:40 - This is fatal : naxoduor
+2017-10-04 11:40:11 DEBUG ExtraLogging:20 - check if is debug : ronnyodero
+2017-10-04 11:40:11 INFO  ExtraLogging:24 - check if is info : ronnyodero
+2017-10-04 11:40:11 WARN  ExtraLogging:27 - check if is warn: ronnyodero
+2017-10-04 11:40:11 ERROR ExtraLogging:28 - check if is error : ronnyodero
+2017-10-04 11:40:11 FATAL ExtraLogging:29 - check if is fatal : ronnyodero
+2017-10-04 11:40:53 DEBUG HelloLoggingExample:31 - This is debug : naxoduor
+2017-10-04 11:40:53 INFO  HelloLoggingExample:35 - This is info : naxoduor
+2017-10-04 11:40:53 WARN  HelloLoggingExample:38 - This is warn: naxoduor
+2017-10-04 11:40:53 ERROR HelloLoggingExample:39 - This is error : naxoduor
+2017-10-04 11:40:53 FATAL HelloLoggingExample:40 - This is fatal : naxoduor
+2017-10-04 11:40:53 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-04 11:40:53 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-04 11:40:53 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-04 11:40:53 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-04 11:40:53 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@5d22bbb7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration true_false -> org.hibernate.type.TrueFalseType@7d6f77cc
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration yes_no -> org.hibernate.type.YesNoType@6f75e721
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration character -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration char -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration integer -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration int -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@1055e4af
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@1055e4af
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@1c6b6478
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@1c6b6478
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration string -> org.hibernate.type.StringType@43556938
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.String -> org.hibernate.type.StringType@43556938
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration url -> org.hibernate.type.UrlType@75828a0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.net.URL -> org.hibernate.type.UrlType@75828a0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration date -> org.hibernate.type.DateType@47089e5f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Date -> org.hibernate.type.DateType@47089e5f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration time -> org.hibernate.type.TimeType@27ddd392
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@27ddd392
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration timestamp -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@6d1e7682
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration calendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@12f40c25
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration locale -> org.hibernate.type.LocaleType@68fb2c38
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@68fb2c38
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration currency -> org.hibernate.type.CurrencyType@574caa3f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@574caa3f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration timezone -> org.hibernate.type.TimeZoneType@3f102e87
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@3f102e87
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration class -> org.hibernate.type.ClassType@29444d75
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@29444d75
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@b065c63
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@b065c63
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@7d4793a8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@7bfcd12c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration binary -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte[] -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [B -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration image -> org.hibernate.type.ImageType@6aceb1a5
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration characters -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration char[] -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [C -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration text -> org.hibernate.type.TextType@2be94b0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration blob -> org.hibernate.type.BlobType@7a92922
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@7a92922
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@5474c6c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper_materialized_blob -> org.hibernate.type.WrappedMaterializedBlobType@591f989e
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration clob -> org.hibernate.type.ClobType@7907ec20
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@7907ec20
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@28864e92
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper_characters_clob -> org.hibernate.type.CharacterArrayClobType@6833ce2c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration characters_clob -> org.hibernate.type.PrimitiveCharacterArrayClobType@6e3c1e69
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration serializable -> org.hibernate.type.SerializableType@357246de
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration object -> org.hibernate.type.ObjectType@71c7db30
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@71c7db30
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@11531931
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@5e025e70
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@1fbc7afb
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@45c8e616
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@4cdbe50f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@66d33a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@7cf10a6f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@7e0babb1
+2017-08-26 03:09:10 INFO  Version:37 - Hibernate Commons Annotations 3.2.0.Final
+2017-08-26 03:09:10 INFO  Environment:603 - Hibernate 3.6.9.Final
+2017-08-26 03:09:10 INFO  Environment:636 - hibernate.properties not found
+2017-08-26 03:09:10 INFO  Environment:814 - Bytecode provider name : javassist
+2017-08-26 03:09:10 INFO  Environment:695 - using JDK 1.4 java.sql.Timestamp handling
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid2] -> [class org.hibernate.id.UUIDGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [guid] -> [class org.hibernate.id.GUIDGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid] -> [class org.hibernate.id.UUIDHexGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid.hex] -> [class org.hibernate.id.UUIDHexGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [hilo] -> [class org.hibernate.id.TableHiLoGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [assigned] -> [class org.hibernate.id.Assigned]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [identity] -> [class org.hibernate.id.IdentityGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [select] -> [class org.hibernate.id.SelectGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [sequence] -> [class org.hibernate.id.SequenceGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [seqhilo] -> [class org.hibernate.id.SequenceHiLoGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [increment] -> [class org.hibernate.id.IncrementGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [foreign] -> [class org.hibernate.id.ForeignGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [sequence-identity] -> [class org.hibernate.id.SequenceIdentityGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [enhanced-sequence] -> [class org.hibernate.id.enhanced.SequenceStyleGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [enhanced-table] -> [class org.hibernate.id.enhanced.TableGenerator]
+2017-08-26 03:09:10 INFO  Version:42 - Hibernate EntityManager 3.6.9.Final
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@123a439b
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@5d22bbb7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration true_false -> org.hibernate.type.TrueFalseType@7d6f77cc
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration yes_no -> org.hibernate.type.YesNoType@6f75e721
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@200a570f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration character -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration char -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@5fdef03a
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@5ccd43c2
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration integer -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration int -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@512ddf17
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Long -> org.hibernate.type.LongType@707f7052
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@7a7b0070
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@61064425
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@1055e4af
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@1055e4af
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@1c6b6478
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@1c6b6478
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration string -> org.hibernate.type.StringType@43556938
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.String -> org.hibernate.type.StringType@43556938
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration url -> org.hibernate.type.UrlType@75828a0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.net.URL -> org.hibernate.type.UrlType@75828a0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration date -> org.hibernate.type.DateType@47089e5f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Date -> org.hibernate.type.DateType@47089e5f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration time -> org.hibernate.type.TimeType@27ddd392
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@27ddd392
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration timestamp -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1996cd68
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@6d1e7682
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration calendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@2a3046da
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@12f40c25
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration locale -> org.hibernate.type.LocaleType@68fb2c38
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@68fb2c38
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration currency -> org.hibernate.type.CurrencyType@574caa3f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@574caa3f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration timezone -> org.hibernate.type.TimeZoneType@3f102e87
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@3f102e87
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration class -> org.hibernate.type.ClassType@29444d75
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@29444d75
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@b065c63
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@b065c63
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@7d4793a8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@7bfcd12c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration binary -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration byte[] -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [B -> org.hibernate.type.BinaryType@1c2c22f3
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@52d455b8
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration image -> org.hibernate.type.ImageType@6aceb1a5
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration characters -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration char[] -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [C -> org.hibernate.type.CharArrayType@4c75cab9
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@2471cca7
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration text -> org.hibernate.type.TextType@2be94b0f
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration blob -> org.hibernate.type.BlobType@7a92922
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@7a92922
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@5474c6c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper_materialized_blob -> org.hibernate.type.WrappedMaterializedBlobType@591f989e
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration clob -> org.hibernate.type.ClobType@7907ec20
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@7907ec20
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@28864e92
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration wrapper_characters_clob -> org.hibernate.type.CharacterArrayClobType@6833ce2c
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration characters_clob -> org.hibernate.type.PrimitiveCharacterArrayClobType@6e3c1e69
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration serializable -> org.hibernate.type.SerializableType@357246de
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration object -> org.hibernate.type.ObjectType@71c7db30
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@71c7db30
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@3fee9989
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@73ad2d6
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@7085bdee
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@1ce92674
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@5700d6b1
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@6fd02e5
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@5bcab519
+2017-08-26 03:09:10 DEBUG BasicTypeRegistry:147 - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@e45f292
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid2] -> [class org.hibernate.id.UUIDGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [guid] -> [class org.hibernate.id.GUIDGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid] -> [class org.hibernate.id.UUIDHexGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [uuid.hex] -> [class org.hibernate.id.UUIDHexGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [hilo] -> [class org.hibernate.id.TableHiLoGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [assigned] -> [class org.hibernate.id.Assigned]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [identity] -> [class org.hibernate.id.IdentityGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [select] -> [class org.hibernate.id.SelectGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [sequence] -> [class org.hibernate.id.SequenceGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [seqhilo] -> [class org.hibernate.id.SequenceHiLoGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [increment] -> [class org.hibernate.id.IncrementGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [foreign] -> [class org.hibernate.id.ForeignGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [sequence-identity] -> [class org.hibernate.id.SequenceIdentityGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [enhanced-sequence] -> [class org.hibernate.id.enhanced.SequenceStyleGenerator]
+2017-08-26 03:09:10 DEBUG DefaultIdentifierGeneratorFactory:100 - Registering IdentifierGenerator strategy [enhanced-table] -> [class org.hibernate.id.enhanced.TableGenerator]
+2017-08-26 03:09:10 DEBUG Ejb3Configuration:304 - Look up for persistence unit: Eclipselink_JPA
+2017-08-26 03:09:11 DEBUG Ejb3Configuration:841 - Detect class: true; detect hbm: true
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:123 - Searching mapped entities in jar/par: file:/home/maradona/NetBeansProjects/MavenDemonstration/target/classes/
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.entities.Owner
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:220 - Java element filter matched for com.journaldev.entities.Owner
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.entities.Car
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:220 - Java element filter matched for com.journaldev.entities.Car
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.entities.Employee
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:220 - Java element filter matched for com.journaldev.entities.Employee
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.listener.StartupListener
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.CarController$1
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.OwnerController$OwnerControllerConverter
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.ResourceBundleDemo
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.CarController
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.OwnerController$1
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.OwnerController
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.controller.CarController$OwnerControllerConverter
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.HelloLoggingExample
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.AbstractFacade
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.OwnerFacade
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.CreateEmployee
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.ExtraLogging
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.sbs.CarFacade
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.jsfs.util.logging.HelloLoggingExample
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.jsfs.util.JSFUtil
+2017-08-26 03:09:11 DEBUG AbstractJarVisitor:169 - Filtering: com.journaldev.helper.PaginationHelper
+2017-08-26 03:09:11 DEBUG Ejb3Configuration:841 - Detect class: true; detect hbm: true
+2017-08-26 03:09:11 DEBUG Ejb3Configuration:194 - Creating Factory: Eclipselink_JPA
+2017-10-27 23:24:04 DEBUG HelloLoggingExample:31 - This is debug : naxoduor
+2017-10-27 23:24:04 INFO  HelloLoggingExample:35 - This is info : naxoduor
+2017-10-27 23:24:04 WARN  HelloLoggingExample:38 - This is warn: naxoduor
+2017-10-27 23:24:04 ERROR HelloLoggingExample:39 - This is error : naxoduor
+2017-10-27 23:24:04 FATAL HelloLoggingExample:40 - This is fatal : naxoduor
+2017-10-27 23:24:04 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-27 23:24:04 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-27 23:24:04 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-27 23:24:04 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-27 23:24:04 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-10-28 01:16:41 DEBUG HelloLoggingExample:36 - This is debug : naxoduor
+2017-10-28 01:16:41 INFO  AbstractFacade:119 - find all entities
+2017-10-28 01:16:41 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 01:16:41 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 01:16:41 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 01:16:44 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 01:16:44 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 01:18:08 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 01:18:08 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 01:18:08 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 01:18:08 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 01:18:08 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 01:18:08 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 01:18:08 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 01:18:08 INFO  HelloLoggingExample:42 - log values from the database
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - aaaa
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - aaaaaaaaaa
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - aaaaaaaaaaa
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - bbbbbbbbbbb
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - bbbbbbbbbbbb
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - bbbbbbbbbbb
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - ccccccccccc
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - cccccccc
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - ccccccccccc
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - ddddddddddd
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - dddddddddd
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - dddddddddddddd
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - eeeeeeeeeeee
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - eeeeeeeee
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - eeeeeeeeeeeeee
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - ffffffffff
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - fffffffffffff
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - fffffffffffff
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - ggggggggggggg
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - ggggggggggg
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - ggggggggggg
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - hhhhhhhhhhhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - hhhhhhhhhhhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - hhhhhhhhhhhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - iiiiiiiiiiii
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - iiiiiiiiiiiiiiii
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - iiiiiiiiiiiiiiiiiii
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - jjjjjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - jjjjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - jjjjjjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - kkkkkkkkkkkkkkk
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - kkkkkkkkkkkkkkk
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - kkkkkkkkkkkkkk
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - 
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - 
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - nax odduor
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - good
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - fantastic
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - uewieuw
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - euwyeyu
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - ewhewu
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - wueywey
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - chxc
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - chcxhcjhx
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - DIEGO
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - MARADONA
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - NAXA
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - RONNY
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - ODERO
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - JOHN
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - tttttttttttt
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - ttttttttttttttt
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - ttttttttttttttt
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - nnnnnnnnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - nnnnnnnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - nnnnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - rrrrrrrrrrrrrrrrr
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - rrrrrrrrrrrrrrr
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - rrrrrrrrrrrrrrrrr
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - ttttthhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - tttthhhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - ttttthhhhh
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - katy
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - james
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - james
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - jjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - jjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - jjjjjjjjjjjjjjjjj
+2017-10-28 01:18:08 INFO  HelloLoggingExample:45 - nnnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:46 - nnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:47 - nnnnnnnnnnn
+2017-10-28 01:18:08 INFO  HelloLoggingExample:51 - This is info : naxoduor
+2017-10-28 01:18:08 WARN  HelloLoggingExample:54 - This is warn: naxoduor
+2017-10-28 01:18:08 ERROR HelloLoggingExample:55 - This is error : naxoduor
+2017-10-28 01:18:08 FATAL HelloLoggingExample:56 - This is fatal : naxoduor
+2017-10-28 01:18:08 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-28 01:18:08 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-28 01:18:08 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-28 01:18:08 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-28 01:18:08 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-10-28 01:33:13 DEBUG HelloLoggingExample:37 - This is debug : naxoduor
+2017-10-28 01:33:13 INFO  AbstractFacade:119 - find all entities
+2017-10-28 01:33:13 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 01:33:13 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 01:33:13 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 01:33:15 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 01:33:15 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 01:34:41 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 01:34:41 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 01:34:41 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 01:34:41 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 01:34:41 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 01:34:41 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 01:34:41 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 01:34:42 INFO  HelloLoggingExample:43 - log values from the database
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 500.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-07
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - credit account
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-07
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - create debit
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-07
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - NNNNN
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 500.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-08
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-08
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1200.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-08
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - bbbbb
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 100.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-10
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nice
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 500.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - jjjjjjj
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 600.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - good money
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nice work
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2500.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - the money
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2500.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - twitter
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 5432.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - facebook
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 995.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - morgan tracy
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 98790.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - tttt aaaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9069.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - mmmmm kkkkkkkk
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 3456.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - AAAAAA
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 3030.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - TREE HOUSE
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 10000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - twitter twitter
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 123.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nax oduor
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1250.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - fb twitter
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 3240.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nax nax
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 890.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nin two
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 8901.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - oduor oduor
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ccc aaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 76890.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnn oduor
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 879.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaaaaaaaaaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 8907.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - eeeeee
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 890.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 900.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaabbb
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9999.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - oiroitrit
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9032.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnmmm
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 988.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 789.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - bbbb
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 897.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - hhhhhhh
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 908.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aase
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 4590.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - jgjgfjg
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 789.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - dlfkdf
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 798.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - jjfg
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 7845.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - eoerpoi
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 567.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - dlskds
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2345.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - khgsfu
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1234.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - kfueu
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 4567.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - hureu
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 879.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - eowie
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 890.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - sosid
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9087.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - uwudw
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 789.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - pkh
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 6745.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - oirgeri
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-24
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - 
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2345.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ruer
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 189.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - wiuewoie
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ttttt
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9999.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - mmmmkkkk
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2020.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ffffffff
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 8796.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - FUUIUU
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 780.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - POU
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1260.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - jjjjjjj
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2111.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 3111.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaaaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 8888.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - bbbbb
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1111.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - caaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1111.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - cccca
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 4567.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - lllll
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 777.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nice
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 111.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - aaaa
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 222.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - bbbb
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 33333.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-25
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ccccc
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 7000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ituru
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 8000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - twitter
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 9000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 3000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - iuttur
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 4000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - lllllk
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 6888.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - jkgjrg
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1232.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - trkjgrjg
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - mmmm
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 1000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - nnnn
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 2000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - vvvvvv
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 40000.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - mmmm
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 789.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ufufu
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 690.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - iurieru
+2017-10-28 01:34:42 INFO  HelloLoggingExample:46 - 4578.0
+2017-10-28 01:34:42 INFO  HelloLoggingExample:47 - 2017-10-26
+2017-10-28 01:34:42 INFO  HelloLoggingExample:48 - ltkrlt
+2017-10-28 01:34:42 INFO  HelloLoggingExample:52 - This is info : naxoduor
+2017-10-28 01:34:42 WARN  HelloLoggingExample:55 - This is warn: naxoduor
+2017-10-28 01:34:42 ERROR HelloLoggingExample:56 - This is error : naxoduor
+2017-10-28 01:34:42 FATAL HelloLoggingExample:57 - This is fatal : naxoduor
+2017-10-28 01:34:42 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-28 01:34:42 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-28 01:34:42 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-28 01:34:42 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-28 01:34:42 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-10-28 02:15:08 DEBUG HelloLoggingExample:41 - This is debug : naxoduor
+2017-10-28 02:15:08 INFO  AbstractFacade:142 - find the given enties
+2017-10-28 02:15:08 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 02:15:08 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 02:15:08 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 02:15:09 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 02:15:09 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 02:16:30 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 02:16:30 INFO  HelloLoggingExample:55 - log values from the database
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - credit account
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - create debit
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - NNNNN
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1200.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 100.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-10
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nice
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 600.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - good money
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nice work
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - the money
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - twitter
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 5432.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - facebook
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 995.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - morgan tracy
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 98790.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - tttt aaaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9069.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - mmmmm kkkkkkkk
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 3456.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - AAAAAA
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 3030.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - TREE HOUSE
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 10000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - twitter twitter
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 123.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nax oduor
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1250.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - fb twitter
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 3240.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nax nax
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nin two
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 8901.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - oduor oduor
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ccc aaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 76890.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnn oduor
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 879.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaaaaaaaaaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 8907.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - eeeeee
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 900.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaabbb
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - oiroitrit
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9032.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnmmm
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 988.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - bbbb
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 897.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - hhhhhhh
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 908.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aase
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 4590.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - jgjgfjg
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - dlfkdf
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 798.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - jjfg
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 7845.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - eoerpoi
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 567.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - dlskds
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - khgsfu
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1234.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - kfueu
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - hureu
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 879.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - eowie
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - sosid
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9087.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - uwudw
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - pkh
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 6745.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - oirgeri
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ruer
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 189.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - wiuewoie
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ttttt
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - mmmmkkkk
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2020.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ffffffff
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 8796.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - FUUIUU
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 780.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - POU
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1260.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2111.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 3111.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaaaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 8888.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - caaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - cccca
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - lllll
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 777.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nice
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 111.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - aaaa
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 222.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - bbbb
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 33333.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ccccc
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 7000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ituru
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 8000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - twitter
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 3000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - iuttur
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 4000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - lllllk
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 6888.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - jkgjrg
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1232.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - trkjgrjg
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - mmmm
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - nnnn
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - vvvvvv
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 40000.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - mmmm
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ufufu
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 690.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - iurieru
+2017-10-28 02:16:30 INFO  HelloLoggingExample:58 - 4578.0
+2017-10-28 02:16:30 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:16:30 INFO  HelloLoggingExample:60 - ltkrlt
+2017-10-28 02:16:30 INFO  HelloLoggingExample:64 - This is info : naxoduor
+2017-10-28 02:16:30 WARN  HelloLoggingExample:67 - This is warn: naxoduor
+2017-10-28 02:16:30 ERROR HelloLoggingExample:68 - This is error : naxoduor
+2017-10-28 02:16:30 FATAL HelloLoggingExample:69 - This is fatal : naxoduor
+2017-10-28 02:16:30 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-28 02:16:30 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-28 02:16:30 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-28 02:16:30 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-28 02:16:30 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-10-28 02:32:14 DEBUG HelloLoggingExample:41 - This is debug : naxoduor
+2017-10-28 02:32:14 INFO  AbstractFacade:142 - find the given enties
+2017-10-28 02:32:14 INFO  AbstractFacade:50 - get the entity manager
+2017-10-28 02:32:14 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-28 02:32:14 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-28 02:32:15 INFO  AbstractFacade:41 - got the damn factory
+2017-10-28 02:32:15 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-28 02:33:34 INFO  AbstractFacade:54 - we got the factory
+2017-10-28 02:33:35 INFO  HelloLoggingExample:55 - log values from the database
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - credit account
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - create debit
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - NNNNN
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1200.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 100.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-10
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nice
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 500.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 600.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - good money
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nice work
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - the money
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - twitter
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 5432.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - facebook
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 995.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - morgan tracy
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 98790.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - tttt aaaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9069.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - mmmmm kkkkkkkk
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 3456.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - AAAAAA
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 3030.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - TREE HOUSE
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 10000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - twitter twitter
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 123.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nax oduor
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1250.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - fb twitter
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 3240.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nax nax
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nin two
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 8901.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - oduor oduor
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ccc aaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 76890.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnn oduor
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 879.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaaaaaaaaaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 8907.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - eeeeee
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 900.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaabbb
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - oiroitrit
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9032.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnmmm
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 988.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - bbbb
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 897.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - hhhhhhh
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 908.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aase
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 4590.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - jgjgfjg
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - dlfkdf
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 798.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - jjfg
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 7845.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - eoerpoi
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 567.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - dlskds
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - khgsfu
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1234.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - kfueu
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - hureu
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 879.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - eowie
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 890.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - sosid
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9087.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - uwudw
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - pkh
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 6745.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - oirgeri
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - 
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ruer
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 189.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - wiuewoie
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ttttt
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - mmmmkkkk
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2020.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ffffffff
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 8796.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - FUUIUU
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 780.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - POU
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1260.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2111.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 3111.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaaaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 8888.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - caaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - cccca
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - lllll
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 777.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nice
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 111.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - aaaa
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 222.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - bbbb
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 33333.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ccccc
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 7000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ituru
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 8000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - twitter
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 3000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - iuttur
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 4000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - lllllk
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 6888.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - jkgjrg
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1232.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - trkjgrjg
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - mmmm
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - nnnn
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - vvvvvv
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 40000.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - mmmm
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 789.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ufufu
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 690.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - iurieru
+2017-10-28 02:33:35 INFO  HelloLoggingExample:58 - 4578.0
+2017-10-28 02:33:35 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-28 02:33:35 INFO  HelloLoggingExample:60 - ltkrlt
+2017-10-28 02:33:35 INFO  HelloLoggingExample:64 - This is info : naxoduor
+2017-10-28 02:33:35 WARN  HelloLoggingExample:67 - This is warn: naxoduor
+2017-10-28 02:33:35 ERROR HelloLoggingExample:68 - This is error : naxoduor
+2017-10-28 02:33:35 FATAL HelloLoggingExample:69 - This is fatal : naxoduor
+2017-10-28 02:33:35 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-28 02:33:35 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-28 02:33:35 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-28 02:33:35 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-28 02:33:35 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1
+2017-10-29 00:19:42 DEBUG HelloLoggingExample:41 - This is debug : naxoduor
+2017-10-29 00:19:42 INFO  AbstractFacade:142 - find the given enties
+2017-10-29 00:19:42 INFO  AbstractFacade:50 - get the entity manager
+2017-10-29 00:19:42 INFO  AbstractFacade:33 - get the entityManagerFactory
+2017-10-29 00:19:42 INFO  AbstractFacade:39 - getting the damn factory
+2017-10-29 00:19:43 INFO  AbstractFacade:41 - got the damn factory
+2017-10-29 00:19:43 INFO  AbstractFacade:43 - we got the manager factory
+2017-10-29 00:21:03 INFO  AbstractFacade:54 - we got the factory
+2017-10-29 00:21:04 INFO  HelloLoggingExample:55 - log values from the database
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 500.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - credit account
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - create debit
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-07
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - NNNNN
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 500.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1200.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-08
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 100.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-10
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nice
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 500.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 600.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - good money
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nice work
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - the money
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2500.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - twitter
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 5432.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - facebook
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 995.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - morgan tracy
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 98790.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - tttt aaaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9069.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - mmmmm kkkkkkkk
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 3456.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - AAAAAA
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 3030.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - TREE HOUSE
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 10000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - twitter twitter
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 123.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nax oduor
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1250.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - fb twitter
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 3240.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nax nax
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 890.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nin two
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 8901.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - oduor oduor
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ccc aaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 76890.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnn oduor
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 879.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaaaaaaaaaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 8907.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - eeeeee
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 890.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 900.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaabbb
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - oiroitrit
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9032.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnmmm
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 988.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 789.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - bbbb
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 897.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - hhhhhhh
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 908.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aase
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 4590.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - jgjgfjg
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 789.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - dlfkdf
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 798.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - jjfg
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 7845.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - eoerpoi
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 567.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - dlskds
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - khgsfu
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1234.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - kfueu
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - hureu
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 879.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - eowie
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 890.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - sosid
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9087.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - uwudw
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 789.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - pkh
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 6745.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - oirgeri
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-24
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - 
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2345.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ruer
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 189.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - wiuewoie
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ttttt
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9999.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - mmmmkkkk
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2020.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ffffffff
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 8796.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - FUUIUU
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 780.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - POU
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1260.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - jjjjjjj
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2111.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 3111.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaaaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 8888.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - bbbbb
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - caaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1111.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - cccca
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 4567.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - lllll
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 777.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nice
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 111.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - aaaa
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 222.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - bbbb
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 33333.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-25
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ccccc
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 7000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ituru
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 8000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - twitter
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 9000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 3000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - iuttur
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 4000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - lllllk
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 6888.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - jkgjrg
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1232.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - trkjgrjg
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - mmmm
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 1000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - nnnn
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 2000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - vvvvvv
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 40000.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - mmmm
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 789.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ufufu
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 690.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - iurieru
+2017-10-29 00:21:04 INFO  HelloLoggingExample:58 - 4578.0
+2017-10-29 00:21:04 INFO  HelloLoggingExample:59 - 2017-10-26
+2017-10-29 00:21:04 INFO  HelloLoggingExample:60 - ltkrlt
+2017-10-29 00:21:04 INFO  HelloLoggingExample:64 - This is info : naxoduor
+2017-10-29 00:21:04 WARN  HelloLoggingExample:67 - This is warn: naxoduor
+2017-10-29 00:21:04 ERROR HelloLoggingExample:68 - This is error : naxoduor
+2017-10-29 00:21:04 FATAL HelloLoggingExample:69 - This is fatal : naxoduor
+2017-10-29 00:21:04 DEBUG ExtraLogging:20 - check if is debug : ronnyodero1
+2017-10-29 00:21:04 INFO  ExtraLogging:24 - check if is info : ronnyodero1
+2017-10-29 00:21:04 WARN  ExtraLogging:27 - check if is warn: ronnyodero1
+2017-10-29 00:21:04 ERROR ExtraLogging:28 - check if is error : ronnyodero1
+2017-10-29 00:21:04 FATAL ExtraLogging:29 - check if is fatal : ronnyodero1

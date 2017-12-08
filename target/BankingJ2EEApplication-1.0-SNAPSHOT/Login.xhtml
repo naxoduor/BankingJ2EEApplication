@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Login Form</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+        <style>
+            body {
+                background: url('http://www.iltechs.com/images/Wallpaper/60.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+            }
+            
+            .container {
+                width: 500px;
+                height: 400px;
+                margin-top: 100px;
+                margin-left: 350px;
+                background: rgba(15, 15, 88, 0.7);
+                border-radius: 15px;
+                text-align: center;
+            }
+            
+            .container img {
+                width: 120px;
+                height: 120px;
+                margin-top: -60px;
+                margin-bottom: 30px;
+            }
+            
+            input[type="text"], input[type="password"] {
+                width: 240px;
+                height: 44px;
+                margin-bottom: 20px;
+                font-size: 10px;
+                border: 1px solid #000;
+                padding-left: 45px;
+            }
+            
+            input[type="submit"] {
+                width: 100px;
+                height: 44px;
+                padding: 15px, 25px;
+                background: #150;
+                color: #fff;
+                border: none;
+                margin-bottom: 20px;
+                cursor: pointer;
+            }
+            
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+            
+            a:hover {
+                color: #150;
+            }
+            
+            .cust {
+                position: absolute;
+                background: #fff;
+                margin-right: 18px;
+                margin-top: 1px;
+                width: 44px;
+                height: 36px;
+                padding-top: 8px;
+                border: 1px solid #fff;
+            }
+        </style>
+    </h:head>
+    <h:body>
+        <div class="container">
+            <img src="avatar.png" alt="Avatar"></img>
+            <form>
+                <div class="form-input">
+                    <i class="fa fa-user fa-2x cust" aria-hidden="true"></i>
+                    <input type="text" name="uname" value="" placeholder="Enter Username"></input><br />
+                    <i class="fa fa-lock fa-2x cust" aria-hidden="true"></i>
+                    <input type="password" name="password" value="" placeholder="Enter Password"></input><br />
+                    <input type="submit" name="submit" value="LOGIN" ></input><br />
+                    <a href="#">Forgot Password</a>
+                </div>
+            </form>
+        </div>
+    </h:body>
+</html>
+
